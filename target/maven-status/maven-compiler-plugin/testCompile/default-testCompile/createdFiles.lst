@@ -1,5 +1,5 @@
-com\codenotfound\kafka\producer\SpringKafkaSenderTest.class
-com\codenotfound\kafka\consumer\SpringKafkaReceiverTest.class
-com\codenotfound\kafka\AllSpringKafkaTests.class
-com\codenotfound\kafka\producer\SpringKafkaSenderTest$1.class
-com\codenotfound\kafka\SpringKafkaApplicationTest.class
+com\stackroute\kafka\producer\test\SpringKafkaSenderTest.class
+com\stackroute\kafka\producer\test\SpringKafkaSenderTest$1.class
+com\stackroute\kafka\test\AllSpringKafkaTests.class
+com\stackroute\kafka\consumer\test\SpringKafkaReceiverTest.class
+com\stackroute\kafka\test\SpringKafkaApplicationTest.class
