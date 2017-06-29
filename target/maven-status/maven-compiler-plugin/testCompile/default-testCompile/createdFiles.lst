@@ -1,0 +1,5 @@
+com\codenotfound\kafka\producer\SpringKafkaSenderTest.class
+com\codenotfound\kafka\consumer\SpringKafkaReceiverTest.class
+com\codenotfound\kafka\AllSpringKafkaTests.class
+com\codenotfound\kafka\producer\SpringKafkaSenderTest$1.class
+com\codenotfound\kafka\SpringKafkaApplicationTest.class
